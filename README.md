@@ -38,32 +38,20 @@ This repository contains C implementations of three CPU Scheduling algorithms: *
 ## 🖼 Sample Input/Output Screenshots
 
 ### 🔹 FCFS
-**Input/Output:**  
+**Input/Output with Gantt Chart:**  
 ![FCFS Screenshot](Screenshots/FCFS.png)  
-
-**Gantt Chart Example:**  
-| P1 | P2 | P3 |
-0    5    8    16
-
 
 ---
 
 ### 🔹 SJF
-**Input/Output:**  
+**Input/Output with Gantt Chart:**  
 ![SJF Screenshot](Screenshots/SJF.png)  
-
-**Gantt Chart Example:**  
-| P2 | P1 | P3 |
-0    3    8    16
-
 
 ---
 
 ### 🔹 Round Robin
-**Input/Output:**  
+**Input/Output with Gantt Chart:**  
 ![RR Screenshot](Screenshots/RR.png)  
 
-**Gantt Chart Example:**  
-| P1 | P2 | P3 | P4 | P1 | P2 | P1 |
-0    2    4    6    7    9    11    12
+
 
